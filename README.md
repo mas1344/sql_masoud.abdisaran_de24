@@ -1,5 +1,4 @@
-sql course user duckab
-masoud duckab
-masoud
+# sql course using duckab
 
+jag lär mig sql här i det här repot
 
