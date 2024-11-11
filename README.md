@@ -1,1 +1,1 @@
-# sql_masoud.abdisaran_de24
+sql course user duckab
